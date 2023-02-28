@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {}
+    "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {}
   },
   "projects": {
-    "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {
+    "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+        "projectUniqueName": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
         "projectName": "SmartHomeSimulation.Test",
-        "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
-        "packagesPath": "C:\\Users\\rucks\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\obj\\",
+        "projectPath": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rucks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
-                "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj"
+              "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
+                "projectPath": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation\\SmartHomeSimulation.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
+    "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
+        "projectUniqueName": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
         "projectName": "SmartHomeSimulation",
-        "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
-        "packagesPath": "C:\\Users\\rucks\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\obj\\",
+        "projectPath": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauri\\Source\\Repos\\V320\\SmartHomeSimulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rucks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
